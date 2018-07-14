@@ -1,0 +1,17 @@
+{
+  "name": "react-parcel-starer",
+  "version": "0.1.0",
+  "description": "A template for react development with parcel.",
+  "repository": "https://github.com/yshaojun/react-parcel-starter",
+  "author": "yshaojun",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.9.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}

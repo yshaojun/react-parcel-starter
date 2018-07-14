@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(135deg,#79f1a4,#0e5cad);
+}
+
+#app > div {
+  margin-top: 180px;
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+}
